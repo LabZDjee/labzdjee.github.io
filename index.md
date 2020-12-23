@@ -13,4 +13,5 @@ Also working knowledge in electronics, PCB design...
 
 - [https://labzdjee.github.io/resumecards](https://labzdjee.github.io/resumecards)
 - [https://labzdjee.github.io/front-dev-pointers](https://labzdjee.github.io/front-dev-pointers)
+- [https://labzdjee.github.io/css-color-keywords](https://labzdjee.github.io/css-color-keywords)
 
